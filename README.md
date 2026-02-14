@@ -1,5 +1,32 @@
 # 💫 About Me:
-## About Me :<br><br>🔭 **I’m currently working on**<br><br>* Improving my DSA & problem-solving on LeetCode<br>* Building React projects (todo apps, small web apps, UI practice)<br><br>👯 **I’m looking to collaborate on**<br><br>* Beginner-friendly web dev projects<br>* Open source projects related to React or JavaScript<br><br>🤝 **I’m looking for help with**<br><br>* Advanced DSA & optimization techniques<br>* Writing cleaner, scalable React code<br>* System design basics<br><br>🌱 **I’m currently learning**<br><br>* Data Structures & Algorithms deeply<br>* React + modern frontend tooling<br>* How to crack SDE internships<br><br>💬 **Ask me about**<br><br>* LeetCode & coding interview prep<br>* React basics<br>* Getting started with programming<br><br>⚡ **Fun fact**<br><br>* I enjoy debugging and solving tricky algorithm problems more than easy ones 😄<br>
+## 👨‍💻 About Me
+
+🔭 **I’m currently working on**
+- Improving my DSA & problem-solving on LeetCode  
+- Building React projects (todo apps, small web apps, UI practice)
+
+👯 **I’m looking to collaborate on**
+- Beginner-friendly web dev projects  
+- Open source projects related to React or JavaScript
+
+🤝 **I’m looking for help with**
+- Advanced DSA & optimization techniques  
+- Writing cleaner, scalable React code  
+- System design basics
+
+🌱 **I’m currently learning**
+- Data Structures & Algorithms deeply  
+- React + modern frontend tooling  
+- How to crack SDE internships
+
+💬 **Ask me about**
+- LeetCode & coding interview prep  
+- React basics  
+- Getting started with programming
+
+⚡ **Fun fact**
+- I enjoy debugging and solving tricky algorithm problems more than easy ones 😄
+
 
 
 ## 🌐 Socials:
